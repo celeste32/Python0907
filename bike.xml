@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenData>
+  <StationStatusData>
+    <Id>3</Id>
+    <StationName>保安轉運站</StationName>
+    <Address>保安轉運站公車侯車亭旁 (文賢路一段)</Address>
+    <EnglishStationName>Bao'an Bus Station</EnglishStationName>
+    <EnglishAddress>Besides the shelter of Bao’an Bus Station (on Wenxian Rd. Section 1)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>19</AvaliableBikeCount>
+    <AvaliableSpaceCount>13</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:57.15</UpdateTime>
+    <Latitude>22.932706</Latitude>
+    <Longitude>120.230637</Longitude>
+    <District>仁德區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>4</Id>
+    <StationName>十鼓文化村站</StationName>
+    <Address>十鼓文化村門口前方(公車候車亭旁)</Address>
+    <EnglishStationName>Ten Drum Cultural Station</EnglishStationName>
+    <EnglishAddress>In front of the gate of Ten Drum Cultural Village</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>11</AvaliableBikeCount>
+    <AvaliableSpaceCount>21</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:46.837</UpdateTime>
+    <Latitude>22.938596</Latitude>
+    <Longitude>120.228987</Longitude>
+    <District>仁德區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>2</Id>
+    <StationName>都會公園-文賢路站</StationName>
+    <Address>奇美博物館文賢路停車場</Address>
+    <EnglishStationName>Metropolitan Park- Wenxian Rd. Station</EnglishStationName>
+    <EnglishAddress>No. 66, Sec. 2, Wenhua Rd., Rende Dist., Tainan City 71755, Taiwan</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>9</AvaliableBikeCount>
+    <AvaliableSpaceCount>23</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:49.383</UpdateTime>
+    <Latitude>22.936039</Latitude>
+    <Longitude>120.228583</Longitude>
+    <District>仁德區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>5</Id>
+    <StationName>都會公園-文華路站</StationName>
+    <Address>臺南都會公園(文華路二段)</Address>
+    <EnglishStationName>Metropolitan Park- Wenhua Rd. Station</EnglishStationName>
+    <EnglishAddress>At the North-side parking lot of Metropolitan Park</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>19</AvaliableBikeCount>
+    <AvaliableSpaceCount>13</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:51.19</UpdateTime>
+    <Latitude>22.937344</Latitude>
+    <Longitude>120.223433</Longitude>
+    <District>仁德區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>6</Id>
+    <StationName>都會公園-台1南停車場站</StationName>
+    <Address>奇美博物館台1南停車場</Address>
+    <EnglishStationName>Metropolitan Park- South Parking Station</EnglishStationName>
+    <EnglishAddress>At P1 parking lot of Chimei Museum </EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>9</AvaliableBikeCount>
+    <AvaliableSpaceCount>23</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:18.437</UpdateTime>
+    <Latitude>22.933688</Latitude>
+    <Longitude>120.221674</Longitude>
+    <District>仁德區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>7</Id>
+    <StationName>臺鐵南科站</StationName>
+    <Address>臺鐵南科站(西出口)</Address>
+    <EnglishStationName>Nanke Station</EnglishStationName>
+    <EnglishAddress>TRA Nanke Station (on Siraya Boulevard)</EnglishAddress>
+    <Capacity>24</Capacity>
+    <AvaliableBikeCount>17</AvaliableBikeCount>
+    <AvaliableSpaceCount>7</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:45.78</UpdateTime>
+    <Latitude>23.107922</Latitude>
+    <Longitude>120.301784</Longitude>
+    <District>南科</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>8</Id>
+    <StationName>社區中心站</StationName>
+    <Address>南科社區中心圓形廣場(大順三路)</Address>
+    <EnglishStationName>STSP Community Center Station</EnglishStationName>
+    <EnglishAddress>At the circular plaza of STSP Community Center</EnglishAddress>
+    <Capacity>24</Capacity>
+    <AvaliableBikeCount>12</AvaliableBikeCount>
+    <AvaliableSpaceCount>12</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:41.597</UpdateTime>
+    <Latitude>23.102362</Latitude>
+    <Longitude>120.288266</Longitude>
+    <District>南科</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>9</Id>
+    <StationName>南科管理局站</StationName>
+    <Address>PARK17前廣場(南科三路)</Address>
+    <EnglishStationName>STSP Bureau Station</EnglishStationName>
+    <EnglishAddress>At the plaza in front of PACK17</EnglishAddress>
+    <Capacity>24</Capacity>
+    <AvaliableBikeCount>10</AvaliableBikeCount>
+    <AvaliableSpaceCount>14</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:10.72</UpdateTime>
+    <Latitude>23.098707</Latitude>
+    <Longitude>120.281935</Longitude>
+    <District>南科</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>10</Id>
+    <StationName>南科健康生活館站</StationName>
+    <Address>南科七路與環東路二段(南科健康生活館前人行道)</Address>
+    <EnglishStationName>STSP Wellness Center Station</EnglishStationName>
+    <EnglishAddress>Nanke 7th Rd &amp; Sec. 2, Huandong Rd</EnglishAddress>
+    <Capacity>24</Capacity>
+    <AvaliableBikeCount>13</AvaliableBikeCount>
+    <AvaliableSpaceCount>11</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:15.67</UpdateTime>
+    <Latitude>23.114009</Latitude>
+    <Longitude>120.281815</Longitude>
+    <District>南科</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>11</Id>
+    <StationName>霞客湖站</StationName>
+    <Address>霞客湖旁停車場前人行道(南科七路)</Address>
+    <EnglishStationName>Xiake Lake Station</EnglishStationName>
+    <EnglishAddress>At the pedestrian walk in front of the parking lot besides Xiake Lake (on Nanke 7th Rd.)</EnglishAddress>
+    <Capacity>24</Capacity>
+    <AvaliableBikeCount>11</AvaliableBikeCount>
+    <AvaliableSpaceCount>13</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:51.457</UpdateTime>
+    <Latitude>23.107907</Latitude>
+    <Longitude>120.269636</Longitude>
+    <District>南科</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>19</Id>
+    <StationName>民生轉運站</StationName>
+    <Address>民生路二段與民生路二段400巷(民生轉運站)</Address>
+    <EnglishStationName>Minsheng Bus Station</EnglishStationName>
+    <EnglishAddress>Besides the shelter of Bus Station.(on Sec. 2, Minsheng Rd.)</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>21</AvaliableBikeCount>
+    <AvaliableSpaceCount>19</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:25.467</UpdateTime>
+    <Latitude>22.9978</Latitude>
+    <Longitude>120.18799</Longitude>
+    <District>中西區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>20</Id>
+    <StationName>赤嵌樓站</StationName>
+    <Address>民族路二段與赤嵌街口(東北側人行道)</Address>
+    <EnglishStationName>Chihkan Tower Station</EnglishStationName>
+    <EnglishAddress>Sec. 2, Minzu Rd.</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>16</AvaliableBikeCount>
+    <AvaliableSpaceCount>16</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:15.353</UpdateTime>
+    <Latitude>22.99712</Latitude>
+    <Longitude>120.20213</Longitude>
+    <District>中西區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>18</Id>
+    <StationName>延平郡王祠站</StationName>
+    <Address>開山路(東南側人行道)</Address>
+    <EnglishStationName>Koxinga Shrine Station</EnglishStationName>
+    <EnglishAddress>Kaishan Rd.</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>13</AvaliableBikeCount>
+    <AvaliableSpaceCount>19</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:54.313</UpdateTime>
+    <Latitude>22.98867</Latitude>
+    <Longitude>120.20777</Longitude>
+    <District>中西區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>21</Id>
+    <StationName>水交社文化園區站</StationName>
+    <Address>健康路一段與南門路口(西南側人行道)</Address>
+    <EnglishStationName>Shueijiaoshe Cultural Park Station</EnglishStationName>
+    <EnglishAddress>Nanmen Rd.</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>13</AvaliableBikeCount>
+    <AvaliableSpaceCount>27</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:23.343</UpdateTime>
+    <Latitude>22.98077</Latitude>
+    <Longitude>120.20344</Longitude>
+    <District>南區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>22</Id>
+    <StationName>體育園區站</StationName>
+    <Address>健康路一段(忠烈祠停車場旁)</Address>
+    <EnglishStationName>Sports Park Station </EnglishStationName>
+    <EnglishAddress>Sec. 1, Jiankang Rd.</EnglishAddress>
+    <Capacity>28</Capacity>
+    <AvaliableBikeCount>19</AvaliableBikeCount>
+    <AvaliableSpaceCount>9</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:17.32</UpdateTime>
+    <Latitude>22.98112</Latitude>
+    <Longitude>120.21055</Longitude>
+    <District>南區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>23</Id>
+    <StationName>臺南市美術館</StationName>
+    <Address>府前路一段與永福路二段口(活動中心前廣場)</Address>
+    <EnglishStationName>Tainan Art Museum Station</EnglishStationName>
+    <EnglishAddress>Sec. 1, Fuqian Rd.</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>18</AvaliableBikeCount>
+    <AvaliableSpaceCount>14</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:37.683</UpdateTime>
+    <Latitude>22.99001</Latitude>
+    <Longitude>120.20059</Longitude>
+    <District>中西區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>24</Id>
+    <StationName>臺南市政府站</StationName>
+    <Address>府前路二段與府前四街(西南側人行道)</Address>
+    <EnglishStationName>Tainan City Hall Station</EnglishStationName>
+    <EnglishAddress>Sec. 2, Fuqian Rd.</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>13</AvaliableBikeCount>
+    <AvaliableSpaceCount>19</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:04.93</UpdateTime>
+    <Latitude>22.99295</Latitude>
+    <Longitude>120.1845</Longitude>
+    <District>安平區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>25</Id>
+    <StationName>衛生局站</StationName>
+    <Address>東門路二段與林森路一段旁(西南側人行道)</Address>
+    <EnglishStationName>Department of Health Station</EnglishStationName>
+    <EnglishAddress>Sec. 1, Linsen Rd.</EnglishAddress>
+    <Capacity>28</Capacity>
+    <AvaliableBikeCount>12</AvaliableBikeCount>
+    <AvaliableSpaceCount>16</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:26.207</UpdateTime>
+    <Latitude>22.98536</Latitude>
+    <Longitude>120.22238</Longitude>
+    <District>東區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>26</Id>
+    <StationName>和順公園站</StationName>
+    <Address>臨安路二段231號對面</Address>
+    <EnglishStationName>Heshun Park Station</EnglishStationName>
+    <EnglishAddress>In front of No.231 ,Sec. 2, Lin'an Rd</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>19</AvaliableBikeCount>
+    <AvaliableSpaceCount>21</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:38.673</UpdateTime>
+    <Latitude>23.004065</Latitude>
+    <Longitude>120.200833</Longitude>
+    <District>北區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>27</Id>
+    <StationName>安億停車場站</StationName>
+    <Address>安億路(安億停車場旁)</Address>
+    <EnglishStationName>Anyi Parking Lot Station</EnglishStationName>
+    <EnglishAddress>In the parking lot.(Anyi Rd.)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>14</AvaliableBikeCount>
+    <AvaliableSpaceCount>18</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:56.303</UpdateTime>
+    <Latitude>22.996628</Latitude>
+    <Longitude>120.163808</Longitude>
+    <District>安平區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>28</Id>
+    <StationName>新化武德殿站</StationName>
+    <Address>新化武德殿旁停車場(台南市新化區和平街53號)</Address>
+    <EnglishStationName>Xinhua Wude Temple Station</EnglishStationName>
+    <EnglishAddress>No. 53, Heping St., West Central Dist., Tainan City</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>19</AvaliableBikeCount>
+    <AvaliableSpaceCount>13</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:05.347</UpdateTime>
+    <Latitude>23.033541</Latitude>
+    <Longitude>120.309185</Longitude>
+    <District>新化區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>29</Id>
+    <StationName>台南市立圖書館站</StationName>
+    <Address>康橋大道及東橋十街口(圖書館前)</Address>
+    <EnglishStationName>Tainan Public Library Station</EnglishStationName>
+    <EnglishAddress>Tainan Public Library Station</EnglishAddress>
+    <Capacity>36</Capacity>
+    <AvaliableBikeCount>19</AvaliableBikeCount>
+    <AvaliableSpaceCount>17</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:30.43</UpdateTime>
+    <Latitude>23.025126</Latitude>
+    <Longitude>120.237857</Longitude>
+    <District>永康區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>30</Id>
+    <StationName>嘉南藥理大學站</StationName>
+    <Address>嘉南藥理大學(北三機車停車場)</Address>
+    <EnglishStationName>CNU</EnglishStationName>
+    <EnglishAddress>CNU North Parking Lot</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>29</AvaliableBikeCount>
+    <AvaliableSpaceCount>11</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:06.357</UpdateTime>
+    <Latitude>22.922354</Latitude>
+    <Longitude>120.227335</Longitude>
+    <District>仁德區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>32</Id>
+    <StationName>南區公所站</StationName>
+    <Address>中華南路二段(新興國宅侯車亭旁)</Address>
+    <EnglishStationName>South District Office Station</EnglishStationName>
+    <EnglishAddress>Sec. 2, Zhonghua S. Rd. (Sin-Sing Public Housing Bus Station beside)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>14</AvaliableBikeCount>
+    <AvaliableSpaceCount>18</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:13.84</UpdateTime>
+    <Latitude>22.96151</Latitude>
+    <Longitude>120.18742</Longitude>
+    <District>南區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>39</Id>
+    <StationName>萬年公園站</StationName>
+    <Address>灣裡路與灣裡路61巷(萬年公園侯車亭旁)</Address>
+    <EnglishStationName>Wannian Park Station</EnglishStationName>
+    <EnglishAddress>Wanli Rd. &amp; Ln. 61, Wanli Rd. (Wannian Park Bus Station beside)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>15</AvaliableBikeCount>
+    <AvaliableSpaceCount>17</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:12.18</UpdateTime>
+    <Latitude>22.93306</Latitude>
+    <Longitude>120.18073</Longitude>
+    <District>南區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>36</Id>
+    <StationName>臺南火車站前站</StationName>
+    <Address>車站前圓環旁(北側人行道)</Address>
+    <EnglishStationName>TRA Tainan Station (Front)</EnglishStationName>
+    <EnglishAddress>TRA Tainan Station (Front) (The N. Side)</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>26</AvaliableBikeCount>
+    <AvaliableSpaceCount>14</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:23.87</UpdateTime>
+    <Latitude>22.99773</Latitude>
+    <Longitude>120.2119</Longitude>
+    <District>北區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>35</Id>
+    <StationName>台南公園站(台南轉運站)</StationName>
+    <Address>公園路與公園南路口(東北側人行道)</Address>
+    <EnglishStationName>Tainan Park Station(Tainan Bus Station)</EnglishStationName>
+    <EnglishAddress>Gongyuan Rd. &amp; Gongyuan S. Rd.Intersection (The E.N. Side)</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>18</AvaliableBikeCount>
+    <AvaliableSpaceCount>22</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:47.26</UpdateTime>
+    <Latitude>23.00176</Latitude>
+    <Longitude>120.2093</Longitude>
+    <District>北區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>31</Id>
+    <StationName>成大會館站</StationName>
+    <Address>大學路與勝利路口(路側人行道)</Address>
+    <EnglishStationName>Zenda Suites Station</EnglishStationName>
+    <EnglishAddress>Daxue Rd. &amp; Shengli Rd.Intersection</EnglishAddress>
+    <Capacity>24</Capacity>
+    <AvaliableBikeCount>7</AvaliableBikeCount>
+    <AvaliableSpaceCount>17</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:26.053</UpdateTime>
+    <Latitude>22.996</Latitude>
+    <Longitude>120.21823</Longitude>
+    <District>東區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>40</Id>
+    <StationName>臺史博館站</StationName>
+    <Address>長和路一段與館前一路口(史博館侯車亭後側)</Address>
+    <EnglishStationName>National Museum of Taiwan History Station</EnglishStationName>
+    <EnglishAddress>Sec. 1, Changhe Rd. &amp; Guanqian 1st Rd. (National Museum of Taiwan History Bus Station beside)</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>20</AvaliableBikeCount>
+    <AvaliableSpaceCount>20</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:22.617</UpdateTime>
+    <Latitude>23.05825</Latitude>
+    <Longitude>120.23285</Longitude>
+    <District>安南區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>33</Id>
+    <StationName>億載金城站</StationName>
+    <Address>光州路與光州五街路口(億載金城侯車亭旁)</Address>
+    <EnglishStationName>Eternal Golden Castle Station</EnglishStationName>
+    <EnglishAddress>Guangzhou Rd. &amp; Guangzhou 5th St.Intersection(Eternal Golden Castle Bus Station beside)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>6</AvaliableBikeCount>
+    <AvaliableSpaceCount>26</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:09.733</UpdateTime>
+    <Latitude>22.98894</Latitude>
+    <Longitude>120.16009</Longitude>
+    <District>安平區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>34</Id>
+    <StationName>運河公園站</StationName>
+    <Address>建平十七街及華平路口</Address>
+    <EnglishStationName>Canal Park Station</EnglishStationName>
+    <EnglishAddress>No. 205, 17th street, Jianping, facing</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>17</AvaliableBikeCount>
+    <AvaliableSpaceCount>15</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:34.62</UpdateTime>
+    <Latitude>22.997412</Latitude>
+    <Longitude>120.176864</Longitude>
+    <District>安平區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>37</Id>
+    <StationName>巴克禮公園站</StationName>
+    <Address>中華東路三段(巴克禮公園侯車亭旁)</Address>
+    <EnglishStationName>Barclay Memorial Park Station</EnglishStationName>
+    <EnglishAddress>Sec. 3, Zhonghua E. Rd. (Barclay Memorial Park Bus Station beside)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>11</AvaliableBikeCount>
+    <AvaliableSpaceCount>21</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:40.69</UpdateTime>
+    <Latitude>22.97378</Latitude>
+    <Longitude>120.22216</Longitude>
+    <District>東區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>38</Id>
+    <StationName>東寧運動公園站</StationName>
+    <Address>林森路二段與東寧路口(東寧運動公園前廣場)</Address>
+    <EnglishStationName>Dongning  Park  Station</EnglishStationName>
+    <EnglishAddress>Sec. 2, Linsen Rd. &amp; Dongning Rd.Intersection(Dongning Park)</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>16</AvaliableBikeCount>
+    <AvaliableSpaceCount>24</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:03.57</UpdateTime>
+    <Latitude>22.9911</Latitude>
+    <Longitude>120.22463</Longitude>
+    <District>東區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>44</Id>
+    <StationName>家庭教育中心站</StationName>
+    <Address>公園路與公園路175巷(南區健保局候車亭旁)</Address>
+    <EnglishStationName>Family Education Center Station</EnglishStationName>
+    <EnglishAddress>Gongyuan Rd. &amp; Ln. 1753, Gongyuan Rd. (NHI Southern Region Branch Bus Station beside))</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>14</AvaliableBikeCount>
+    <AvaliableSpaceCount>18</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:38.98</UpdateTime>
+    <Latitude>22.99707</Latitude>
+    <Longitude>120.20636</Longitude>
+    <District>中西區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>53</Id>
+    <StationName>花園夜市站</StationName>
+    <Address>海安路三段與和緯路三段(西南側人行道)</Address>
+    <EnglishStationName>Garden Night Market Station</EnglishStationName>
+    <EnglishAddress>Sec. 3, Hai-an Rd. &amp; Sec. 3, Hewei Rd.(The W.S. Side)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>19</AvaliableBikeCount>
+    <AvaliableSpaceCount>13</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:56.483</UpdateTime>
+    <Latitude>23.01146</Latitude>
+    <Longitude>120.20043</Longitude>
+    <District>北區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>54</Id>
+    <StationName>裕文圖書館站</StationName>
+    <Address>裕文路286號旁</Address>
+    <EnglishStationName>Yuwen Branch Library Station</EnglishStationName>
+    <EnglishAddress>Yuwen Rd .No 286.</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>18</AvaliableBikeCount>
+    <AvaliableSpaceCount>14</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:42.13</UpdateTime>
+    <Latitude>22.982159</Latitude>
+    <Longitude>120.245843</Longitude>
+    <District>東區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>59</Id>
+    <StationName>水萍塭公園站</StationName>
+    <Address>夏林路與樹林街二段(客家文化會館候車亭旁)</Address>
+    <EnglishStationName>Shueipingwun Park Station</EnglishStationName>
+    <EnglishAddress>Xialin Rd. &amp; Sec. 2, Shulin St. (Hakkas Culture Clubhouse Bus Station beside)</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>19</AvaliableBikeCount>
+    <AvaliableSpaceCount>21</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:51.223</UpdateTime>
+    <Latitude>22.986</Latitude>
+    <Longitude>120.19471</Longitude>
+    <District>南區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>47</Id>
+    <StationName>林默娘公園站</StationName>
+    <Address>安億路(林默娘公園停車場旁)</Address>
+    <EnglishStationName>Lin Mo-Niang Park Station</EnglishStationName>
+    <EnglishAddress>Anyi Rd. (Lin Mo-Niang Park parking lot)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>12</AvaliableBikeCount>
+    <AvaliableSpaceCount>20</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:33.1</UpdateTime>
+    <Latitude>22.99288</Latitude>
+    <Longitude>120.15693</Longitude>
+    <District>安平區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>56</Id>
+    <StationName>小東公園站</StationName>
+    <Address>小東路與林森路三段(東北側人行道)</Address>
+    <EnglishStationName>Siaodong  Park Station</EnglishStationName>
+    <EnglishAddress>Xiaodong Rd. &amp; Sec. 3, Linsen Rd. (The E.N. Side)</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>18</AvaliableBikeCount>
+    <AvaliableSpaceCount>22</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:56.057</UpdateTime>
+    <Latitude>23.00066</Latitude>
+    <Longitude>120.22502</Longitude>
+    <District>東區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>49</Id>
+    <StationName>大興公園站</StationName>
+    <Address>文賢路與大興街(西南側人行道)</Address>
+    <EnglishStationName>Da-sing Park Station</EnglishStationName>
+    <EnglishAddress>Wenxian Rd. &amp; Dasing St.(The W.S. Side)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>14</AvaliableBikeCount>
+    <AvaliableSpaceCount>18</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:22.35</UpdateTime>
+    <Latitude>23.01173</Latitude>
+    <Longitude>120.19381</Longitude>
+    <District>北區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>51</Id>
+    <StationName>海安民族站</StationName>
+    <Address>民族路三段與海安路二段(西北側人行道)</Address>
+    <EnglishStationName>Hai-an Rd. &amp; Minzu Rd. Station</EnglishStationName>
+    <EnglishAddress>Sec. 2, Hai-an Rd. &amp; Sec. 3, Minzu Rd. (The W.N. Side)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>12</AvaliableBikeCount>
+    <AvaliableSpaceCount>20</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:28.37</UpdateTime>
+    <Latitude>22.99846</Latitude>
+    <Longitude>120.197694</Longitude>
+    <District>中西區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>46</Id>
+    <StationName>臺灣文學館站</StationName>
+    <Address>友愛街(臺灣文學館後門)</Address>
+    <EnglishStationName>National Museum of Taiwan Literature Station</EnglishStationName>
+    <EnglishAddress>You-ai St.(National Museum of Taiwan Literature (Rear))</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>15</AvaliableBikeCount>
+    <AvaliableSpaceCount>25</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:27.947</UpdateTime>
+    <Latitude>22.99106</Latitude>
+    <Longitude>120.203929</Longitude>
+    <District>中西區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>55</Id>
+    <StationName>成大醫院站</StationName>
+    <Address>小東路與勝利路(成功大學候車亭旁)</Address>
+    <EnglishStationName>Cheng Kung University Hospital Station</EnglishStationName>
+    <EnglishAddress>Xiaodong Rd. &amp; Shengli Rd. (Cheng Kung University Bus Station beside)</EnglishAddress>
+    <Capacity>24</Capacity>
+    <AvaliableBikeCount>7</AvaliableBikeCount>
+    <AvaliableSpaceCount>17</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:00.607</UpdateTime>
+    <Latitude>23.00111</Latitude>
+    <Longitude>120.21821</Longitude>
+    <District>北區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>60</Id>
+    <StationName>臺南火車站後站</StationName>
+    <Address>大學西路與育樂街(東南側人行道)</Address>
+    <EnglishStationName>TRA Tainan Station (Rear)</EnglishStationName>
+    <EnglishAddress>Sec.W.,Daxue Rd. &amp; Yule St.(The E.S. Side)</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>27</AvaliableBikeCount>
+    <AvaliableSpaceCount>13</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:54.747</UpdateTime>
+    <Latitude>22.99631</Latitude>
+    <Longitude>120.21495</Longitude>
+    <District>東區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>48</Id>
+    <StationName>馬雅各青年公園站</StationName>
+    <Address>青年路與育樂街(東北側人行道)</Address>
+    <EnglishStationName>James Laidlaw Maxwell Cingnian Park Station</EnglishStationName>
+    <EnglishAddress>Qingnian Rd. &amp; Yule St.(The E.N. Side)</EnglishAddress>
+    <Capacity>24</Capacity>
+    <AvaliableBikeCount>9</AvaliableBikeCount>
+    <AvaliableSpaceCount>15</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:08.773</UpdateTime>
+    <Latitude>22.99139</Latitude>
+    <Longitude>120.21469</Longitude>
+    <District>東區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>58</Id>
+    <StationName>虎尾寮市場站</StationName>
+    <Address>裕平路與裕和二街(西北側人行道)</Address>
+    <EnglishStationName>Hu-Wei-Liao Market Station</EnglishStationName>
+    <EnglishAddress>Yuping Rd. &amp; Yuhe 2nd St.(The W.N. Side)</EnglishAddress>
+    <Capacity>24</Capacity>
+    <AvaliableBikeCount>7</AvaliableBikeCount>
+    <AvaliableSpaceCount>17</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:04.587</UpdateTime>
+    <Latitude>22.98514</Latitude>
+    <Longitude>120.24088</Longitude>
+    <District>東區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>57</Id>
+    <StationName>東寧裕農站</StationName>
+    <Address>東寧路與東光路一段(東側人行道)</Address>
+    <EnglishStationName>Dongning Rd. &amp; Yunong Rd. Station</EnglishStationName>
+    <EnglishAddress>Dongning Rd. &amp; Sec. 1, Dongguang Rd. (The E. Side)</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>18</AvaliableBikeCount>
+    <AvaliableSpaceCount>22</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:35.803</UpdateTime>
+    <Latitude>22.98884</Latitude>
+    <Longitude>120.23189</Longitude>
+    <District>東區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>50</Id>
+    <StationName>鹽埕圖書館站</StationName>
+    <Address>新和東路(鹽埕圖書館旁)</Address>
+    <EnglishStationName>Yancheng Library Station</EnglishStationName>
+    <EnglishAddress>Xinhe E. Rd. (Yancheng Library beside)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>19</AvaliableBikeCount>
+    <AvaliableSpaceCount>13</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:52.213</UpdateTime>
+    <Latitude>22.96741</Latitude>
+    <Longitude>120.18755</Longitude>
+    <District>南區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>52</Id>
+    <StationName>和意路站</StationName>
+    <Address>和意路與永福路一段223巷(西南側人行道)</Address>
+    <EnglishStationName>Heyi Rd. Station</EnglishStationName>
+    <EnglishAddress>Heyi Rd. &amp; Ln. 223, Sec. 1, Yongfu Rd. (The W.S. Side)</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>19</AvaliableBikeCount>
+    <AvaliableSpaceCount>21</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:12.547</UpdateTime>
+    <Latitude>22.98824</Latitude>
+    <Longitude>120.1984</Longitude>
+    <District>中西區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>45</Id>
+    <StationName>安平區公所站</StationName>
+    <Address>育平路與育平八街(東南側人行道)</Address>
+    <EnglishStationName>Anping District Office Station</EnglishStationName>
+    <EnglishAddress>Yuping Rd. &amp; Yuping 8th St.(The E.S. Side)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>21</AvaliableBikeCount>
+    <AvaliableSpaceCount>11</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:42.963</UpdateTime>
+    <Latitude>22.9941</Latitude>
+    <Longitude>120.16777</Longitude>
+    <District>安平區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>42</Id>
+    <StationName>臺南市議會站</StationName>
+    <Address>永華路二段與中華西路二段(東北側人行道)</Address>
+    <EnglishStationName>Tainan City Council Station</EnglishStationName>
+    <EnglishAddress>Sec. 2, Yonghua Rd. &amp; Sec. 2, Zhonghua W. Rd. (The E.N. Side)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>21</AvaliableBikeCount>
+    <AvaliableSpaceCount>11</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:54.577</UpdateTime>
+    <Latitude>22.9892</Latitude>
+    <Longitude>120.18673</Longitude>
+    <District>安平區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>61</Id>
+    <StationName>崑山科大站</StationName>
+    <Address>崑山科技大學(東側人行道)</Address>
+    <EnglishStationName>KSU Station</EnglishStationName>
+    <EnglishAddress>Kun Shan University(The E. Side)</EnglishAddress>
+    <Capacity>24</Capacity>
+    <AvaliableBikeCount>9</AvaliableBikeCount>
+    <AvaliableSpaceCount>15</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:29.497</UpdateTime>
+    <Latitude>22.998309</Latitude>
+    <Longitude>120.253429</Longitude>
+    <District>永康區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>63</Id>
+    <StationName>高鐵台南站</StationName>
+    <Address>武當路與歸仁十二路交叉口(西北側人行道)</Address>
+    <EnglishStationName>Taiwan High Speed Rail Tainan Station</EnglishStationName>
+    <EnglishAddress>Wudang Rd. &amp; Guiren 12th Rd.(The W.N. Side)</EnglishAddress>
+    <Capacity>24</Capacity>
+    <AvaliableBikeCount>17</AvaliableBikeCount>
+    <AvaliableSpaceCount>7</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:04.68</UpdateTime>
+    <Latitude>22.922813</Latitude>
+    <Longitude>120.285396</Longitude>
+    <District>歸仁區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>62</Id>
+    <StationName>海安正興站</StationName>
+    <Address>海安路二段與正興街交叉口(北側人行道)</Address>
+    <EnglishStationName>Hai-an Rd. &amp; Jhengsing St. Station</EnglishStationName>
+    <EnglishAddress>Sec. 2, Hai’an Rd. &amp; Zhengxing St.(The N. Side)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>21</AvaliableBikeCount>
+    <AvaliableSpaceCount>11</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:30.71</UpdateTime>
+    <Latitude>22.994862</Latitude>
+    <Longitude>120.19649</Longitude>
+    <District>中西區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>64</Id>
+    <StationName>陽明交通大學(臺南校區)站</StationName>
+    <Address>高發三路(北向人行道)</Address>
+    <EnglishStationName>NYCU Tainan Campus Station</EnglishStationName>
+    <EnglishAddress>Gaofa 3rd Rd (National Chiao Tung University at Tainan Taiwan Front The W. Side)</EnglishAddress>
+    <Capacity>24</Capacity>
+    <AvaliableBikeCount>6</AvaliableBikeCount>
+    <AvaliableSpaceCount>18</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:58.877</UpdateTime>
+    <Latitude>22.924648</Latitude>
+    <Longitude>120.294527</Longitude>
+    <District>歸仁區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>65</Id>
+    <StationName>日新國小站</StationName>
+    <Address>金華路一段與鹽埕路口(西側人行道)</Address>
+    <EnglishStationName>Rihsin Elementary School Station</EnglishStationName>
+    <EnglishAddress>Sec. 1, Jinhua Rd &amp; Yancheng Rd</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>8</AvaliableBikeCount>
+    <AvaliableSpaceCount>24</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:06.077</UpdateTime>
+    <Latitude>22.9727</Latitude>
+    <Longitude>120.190409</Longitude>
+    <District>南區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>70</Id>
+    <StationName>黃金海岸站</StationName>
+    <Address>黃金海岸遊客中心(南側廣場)</Address>
+    <EnglishStationName>Gold Coast Visitor Center Station</EnglishStationName>
+    <EnglishAddress>Gold Coast Visitor Center (Front) (The S. Side)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>21</AvaliableBikeCount>
+    <AvaliableSpaceCount>11</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:00.65</UpdateTime>
+    <Latitude>22.930488</Latitude>
+    <Longitude>120.17636</Longitude>
+    <District>南區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>66</Id>
+    <StationName>台江文化中心站</StationName>
+    <Address>安吉路一段與安中路二段(南側人行道)</Address>
+    <EnglishStationName>Taikang Cultural Center Station</EnglishStationName>
+    <EnglishAddress>Sec. 1, Anji Rd &amp; Sec. 2, Anzhong Rd </EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>16</AvaliableBikeCount>
+    <AvaliableSpaceCount>16</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:07.607</UpdateTime>
+    <Latitude>23.046183</Latitude>
+    <Longitude>120.187969</Longitude>
+    <District>安南區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>67</Id>
+    <StationName>新市火車站</StationName>
+    <Address>車站前(東北側人行道)</Address>
+    <EnglishStationName>Xinshi Station</EnglishStationName>
+    <EnglishAddress>Xinshi Station (Front) (The E.N. Side)</EnglishAddress>
+    <Capacity>28</Capacity>
+    <AvaliableBikeCount>9</AvaliableBikeCount>
+    <AvaliableSpaceCount>19</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:50.987</UpdateTime>
+    <Latitude>23.068398</Latitude>
+    <Longitude>120.290222</Longitude>
+    <District>新市區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>68</Id>
+    <StationName>善化火車站</StationName>
+    <Address>車站前圓環旁(北側T-Bike專區)</Address>
+    <EnglishStationName>Shanhua Station</EnglishStationName>
+    <EnglishAddress>Shanhua Station (Front) (The N. Side)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>24</AvaliableBikeCount>
+    <AvaliableSpaceCount>8</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:56.147</UpdateTime>
+    <Latitude>23.133612</Latitude>
+    <Longitude>120.306082</Longitude>
+    <District>善化區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>69</Id>
+    <StationName>善化高中站</StationName>
+    <Address>仁愛路與大成路(南側人行道)</Address>
+    <EnglishStationName>Shan-Hua Senior High School Station</EnglishStationName>
+    <EnglishAddress>Ren’ai Rd &amp; Dacheng Rd (Front) (The S. Side)</EnglishAddress>
+    <Capacity>24</Capacity>
+    <AvaliableBikeCount>3</AvaliableBikeCount>
+    <AvaliableSpaceCount>21</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:58.753</UpdateTime>
+    <Latitude>23.130213</Latitude>
+    <Longitude>120.301753</Longitude>
+    <District>善化區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>71</Id>
+    <StationName>漁光島站</StationName>
+    <Address>健康路三段與漁光路人行道上</Address>
+    <EnglishStationName>Yuguang Island Station</EnglishStationName>
+    <EnglishAddress>Jiankang 3rd St &amp; Yuguang Rd  The  Sidewalk</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>15</AvaliableBikeCount>
+    <AvaliableSpaceCount>17</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:04.503</UpdateTime>
+    <Latitude>22.981458</Latitude>
+    <Longitude>120.156465</Longitude>
+    <District>安平區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>72</Id>
+    <StationName>水景公園站</StationName>
+    <Address>安北路與安平路850巷路口</Address>
+    <EnglishStationName>Waterview Park Station</EnglishStationName>
+    <EnglishAddress>Anbei Rd &amp; Ln. 580, Anping Rd Intersection</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>21</AvaliableBikeCount>
+    <AvaliableSpaceCount>11</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:37.277</UpdateTime>
+    <Latitude>23.002078</Latitude>
+    <Longitude>120.158163</Longitude>
+    <District>安平區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>73</Id>
+    <StationName>安平遊憩碼頭站</StationName>
+    <Address>運河路旁</Address>
+    <EnglishStationName>Anping Recreational Wharf Station</EnglishStationName>
+    <EnglishAddress>Yunhe Rd beside</EnglishAddress>
+    <Capacity>28</Capacity>
+    <AvaliableBikeCount>11</AvaliableBikeCount>
+    <AvaliableSpaceCount>17</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:21.407</UpdateTime>
+    <Latitude>22.997543</Latitude>
+    <Longitude>120.160483</Longitude>
+    <District>安平區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>74</Id>
+    <StationName>新興國小站</StationName>
+    <Address>夏林路西側新興國小人行道上</Address>
+    <EnglishStationName>Sinsing Elementary School Station</EnglishStationName>
+    <EnglishAddress>Xialin Rd (The W. Side) Sinsing Elementary School Sidewalk</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>23</AvaliableBikeCount>
+    <AvaliableSpaceCount>17</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:18.533</UpdateTime>
+    <Latitude>22.979767</Latitude>
+    <Longitude>120.195262</Longitude>
+    <District>南區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>75</Id>
+    <StationName>和平公園站</StationName>
+    <Address>文化路與文化一街路口</Address>
+    <EnglishStationName>Heping Park Station</EnglishStationName>
+    <EnglishAddress>Wenhua Rd &amp;Wenhua 1st St Intersection</EnglishAddress>
+    <Capacity>24</Capacity>
+    <AvaliableBikeCount>11</AvaliableBikeCount>
+    <AvaliableSpaceCount>13</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:20.513</UpdateTime>
+    <Latitude>22.977066</Latitude>
+    <Longitude>120.232331</Longitude>
+    <District>東區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>76</Id>
+    <StationName>崇明路站</StationName>
+    <Address>崇明E6停車場入口</Address>
+    <EnglishStationName>Chongming Rd . Station</EnglishStationName>
+    <EnglishAddress>Chongming E6 Parking lot entrance</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>24</AvaliableBikeCount>
+    <AvaliableSpaceCount>8</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:24.867</UpdateTime>
+    <Latitude>22.968814</Latitude>
+    <Longitude>120.225657</Longitude>
+    <District>東區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>77</Id>
+    <StationName>歸仁區公所站</StationName>
+    <Address>中正北路一段東側</Address>
+    <EnglishStationName>Gueiren District Office Station</EnglishStationName>
+    <EnglishAddress>Sec. 1, Zhongzheng N. Rd (The E. Side)</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>14</AvaliableBikeCount>
+    <AvaliableSpaceCount>18</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:42.133</UpdateTime>
+    <Latitude>22.967025</Latitude>
+    <Longitude>120.294365</Longitude>
+    <District>歸仁區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>78</Id>
+    <StationName>平實公園站</StationName>
+    <Address>平實公園(北側)人行道</Address>
+    <EnglishStationName>Pingshi Park Station</EnglishStationName>
+    <EnglishAddress>Pingshi Park( The N. Side)  The sidewalk</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>19</AvaliableBikeCount>
+    <AvaliableSpaceCount>21</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:50.407</UpdateTime>
+    <Latitude>22.998315</Latitude>
+    <Longitude>120.236043</Longitude>
+    <District>東區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>79</Id>
+    <StationName>永康火車站</StationName>
+    <Address>台鐵自行車停車處</Address>
+    <EnglishStationName>Yongkang Station</EnglishStationName>
+    <EnglishAddress>Taiwan Railway Bicycle Parking</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>16</AvaliableBikeCount>
+    <AvaliableSpaceCount>16</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:03.797</UpdateTime>
+    <Latitude>23.038536</Latitude>
+    <Longitude>120.254087</Longitude>
+    <District>永康區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>80</Id>
+    <StationName>德光公園站</StationName>
+    <Address>崇德路與崇明七街</Address>
+    <EnglishStationName>Deguang Park Station</EnglishStationName>
+    <EnglishAddress>Chongde Rd &amp; Chongming 7th St</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>15</AvaliableBikeCount>
+    <AvaliableSpaceCount>17</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:03.71</UpdateTime>
+    <Latitude>22.979805</Latitude>
+    <Longitude>120.219384</Longitude>
+    <District>東區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>81</Id>
+    <StationName>台南二中站</StationName>
+    <Address>公園北路台南二中對面</Address>
+    <EnglishStationName>Tainan Second Senior High School Station</EnglishStationName>
+    <EnglishAddress>Tainan Park( The N. Side)  The sidewalk</EnglishAddress>
+    <Capacity>40</Capacity>
+    <AvaliableBikeCount>11</AvaliableBikeCount>
+    <AvaliableSpaceCount>29</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:11.26</UpdateTime>
+    <Latitude>23.004017</Latitude>
+    <Longitude>120.213162</Longitude>
+    <District>北區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>82</Id>
+    <StationName>美術園區站</StationName>
+    <Address>公園路一段與中華路口</Address>
+    <EnglishStationName>Art Park Station</EnglishStationName>
+    <EnglishAddress>Sec. 1, Gongyuan Rd &amp; Jhonghua Road Intersection</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>9</AvaliableBikeCount>
+    <AvaliableSpaceCount>23</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:08.417</UpdateTime>
+    <Latitude>23.305053</Latitude>
+    <Longitude>120.306247</Longitude>
+    <District>新營區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>83</Id>
+    <StationName>天鵝湖公園站</StationName>
+    <Address>南74鄉道一側停車場入口</Address>
+    <EnglishStationName>Swan Lake Park Station</EnglishStationName>
+    <EnglishAddress>South 74 Township Road Parking entrance</EnglishAddress>
+    <Capacity>32</Capacity>
+    <AvaliableBikeCount>13</AvaliableBikeCount>
+    <AvaliableSpaceCount>19</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:07.547</UpdateTime>
+    <Latitude>23.331548</Latitude>
+    <Longitude>120.317076</Longitude>
+    <District>新營區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>84</Id>
+    <StationName>新營火車站(1)</StationName>
+    <Address>新營火車站</Address>
+    <EnglishStationName>Xinying Station</EnglishStationName>
+    <EnglishAddress>Xinying Station</EnglishAddress>
+    <Capacity>24</Capacity>
+    <AvaliableBikeCount>20</AvaliableBikeCount>
+    <AvaliableSpaceCount>4</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:03.507</UpdateTime>
+    <Latitude>23.306515</Latitude>
+    <Longitude>120.322868</Longitude>
+    <District>新營區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>85</Id>
+    <StationName>新營高中站</StationName>
+    <Address>民權路與信義街路口</Address>
+    <EnglishStationName>Sinying High School Station</EnglishStationName>
+    <EnglishAddress>Minquan Rd &amp; Xinyi St Intersection</EnglishAddress>
+    <Capacity>28</Capacity>
+    <AvaliableBikeCount>6</AvaliableBikeCount>
+    <AvaliableSpaceCount>22</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:08:31.347</UpdateTime>
+    <Latitude>23.30789</Latitude>
+    <Longitude>120.312288</Longitude>
+    <District>新營區</District>
+  </StationStatusData>
+  <StationStatusData>
+    <Id>86</Id>
+    <StationName>新營火車站(2)</StationName>
+    <Address>新營火車站</Address>
+    <EnglishStationName>Xinying Station</EnglishStationName>
+    <EnglishAddress>Xinying Station</EnglishAddress>
+    <Capacity>8</Capacity>
+    <AvaliableBikeCount>5</AvaliableBikeCount>
+    <AvaliableSpaceCount>3</AvaliableSpaceCount>
+    <UpdateTime>2021-09-07T21:09:25.063</UpdateTime>
+    <Latitude>23.307105</Latitude>
+    <Longitude>120.323186</Longitude>
+    <District>新營區</District>
+  </StationStatusData>
+</OpenData>
